@@ -1,7 +1,7 @@
-# Auto-MPG-Data-Analysis-and-MPG-Prediction
-<b>Objective:</b><br> Conducted exploratory data analysis (EDA) on the auto-mpg dataset to gain insights into the relationship between various car attributes and fuel efficiency. Developed a predictive model to estimate miles per gallon (MPG) based on the provided data.
+# Auto-MPG-Data-Analysis
+<b>Objective:</b><br> Conducted exploratory data analysis (EDA) on the auto-mpg dataset to gain insights into the relationship between various car attributes and fuel efficiency.
 
-<b>Methods and Techniques:</b><br> Employed Python programming language and utilized various data analysis and machine learning libraries, such as Pandas, NumPy, Matplotlib, and scikit-learn. Performed data cleaning, feature engineering, visualization, statistical analysis, and implemented a regression model for MPG prediction.
+<b>Methods and Techniques:</b><br> Employed Python programming language and utilized various data analysis libraries, such as Pandas, NumPy, Matplotlib, and seaborn. Performed data cleaning, visualization, statistical analysis.
 
 <b>Key Findings:</b>
 
@@ -11,7 +11,6 @@
 - Examined the impact of car origin on MPG and found that certain origins tend to have higher or lower fuel efficiency on average.
 <b>Results:</b>
 
-Developed a regression model to predict MPG based on car attributes with an accuracy of X%.
 Provided actionable insights to inform decisions related to car design, fuel efficiency, and environmental impact.
 
 <b>Skills Demonstrated:</b>
@@ -20,7 +19,6 @@ Provided actionable insights to inform decisions related to car design, fuel eff
 - Exploratory data analysis (EDA) techniques.
 - Data visualization using Matplotlib, Seaborn.
 - Statistical analysis and inference.
-- Regression modeling for prediction.
-- Python programming and libraries (Pandas, NumPy, scikit-learn).
+- Python programming and libraries (Pandas, NumPy).
 
-<b>Conclusion</b>:<br> This project demonstrates your ability to analyze and derive meaningful insights from a real-world dataset, as well as your skills in data preprocessing, visualization, and predictive modeling.
+<b>Conclusion</b>:<br> This project demonstrates your ability to analyze and derive meaningful insights from a real-world dataset, as well as your skills in data preprocessing, visualization.
